@@ -1,1 +1,10 @@
+*.iml
+*.ipr
+*.iws
+.idea/*
+!.idea/runConfigurations
+out
 target
+*.class
+.DS_Store
+errors/*
